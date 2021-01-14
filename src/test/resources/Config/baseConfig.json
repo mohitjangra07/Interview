@@ -1,0 +1,6 @@
+{
+  "testType": "ui",
+  "browserName": "chrome",
+  "env": "QA",
+  "appTestUrl": "https://www.demoblaze.com/index.html"
+}
